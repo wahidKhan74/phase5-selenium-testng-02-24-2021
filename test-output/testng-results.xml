@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11552" started-at="2021-02-24T17:32:04 UTC" finished-at="2021-02-24T17:32:15 UTC">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11552" started-at="2021-02-24T17:32:04 UTC" finished-at="2021-02-24T17:32:15 UTC">
+      <class name="com.ecommerce.webapp.test.AmazonHomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ecommerce.webapp.test.AmazonHomePageTest@10bbd20a]" name="setUp" is-config="true" duration-ms="4655" started-at="2021-02-24T17:32:04 UTC" finished-at="2021-02-24T17:32:08 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyAmazoneHomePageSourceURL()[pri:0, instance:com.ecommerce.webapp.test.AmazonHomePageTest@10bbd20a]" name="verifyAmazoneHomePageSourceURL" duration-ms="394" started-at="2021-02-24T17:32:08 UTC" finished-at="2021-02-24T17:32:09 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAmazoneHomePageSourceURL -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ecommerce.webapp.test.AmazonHomePageTest@10bbd20a]" name="tearDown" is-config="true" duration-ms="1191" started-at="2021-02-24T17:32:09 UTC" finished-at="2021-02-24T17:32:10 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ecommerce.webapp.test.AmazonHomePageTest@10bbd20a]" name="setUp" is-config="true" duration-ms="3861" started-at="2021-02-24T17:32:10 UTC" finished-at="2021-02-24T17:32:14 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyAmazoneHomePageTitle()[pri:0, instance:com.ecommerce.webapp.test.AmazonHomePageTest@10bbd20a]" name="verifyAmazoneHomePageTitle" duration-ms="49" started-at="2021-02-24T17:32:14 UTC" finished-at="2021-02-24T17:32:14 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAmazoneHomePageTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ecommerce.webapp.test.AmazonHomePageTest@10bbd20a]" name="tearDown" is-config="true" duration-ms="1327" started-at="2021-02-24T17:32:14 UTC" finished-at="2021-02-24T17:32:15 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ecommerce.webapp.test.AmazonHomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
